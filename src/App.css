@@ -1,0 +1,15 @@
+.avatar {
+  border: 1px solid black;
+  padding: 20px;
+  width: 100px;
+  text-align: center;
+  
+}
+
+.avatar  img{
+  width: 120px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid black;
+  
+}
